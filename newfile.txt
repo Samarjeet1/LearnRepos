@@ -1,1 +1,1 @@
-newbranch has changed this file
+Just Added to newfile.txt through newbranch
